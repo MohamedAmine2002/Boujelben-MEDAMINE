@@ -1,7 +1,7 @@
 ### Hi there
 <h1 align="center">Hi 👋, I'm Boujelben Mohamed Amine</h1>
 <h3 align="center">A passionate Software Engineering Student from Tunisia</h3>
-<img align="right" alt="coding" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Qa-GDWL7JDUbTDYX6m_u8&ust=1730843732701000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj9psLVw4kDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400"  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedamine2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedamine2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedamine2002" alt="mohamedamine2002" /></a> </p>
